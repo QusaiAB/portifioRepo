@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{0A9CB1E8-BFDE-48A2-8929-B20513DA2471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{EEFD918B-5001-4389-9157-EAB35D36B758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InFrastructure", "InFrastructure\InFrastructure.csproj", "{BDFAC0B0-5C04-47E6-A609-42377827DDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9CB1E8-BFDE-48A2-8929-B20513DA2471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9CB1E8-BFDE-48A2-8929-B20513DA2471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9CB1E8-BFDE-48A2-8929-B20513DA2471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9CB1E8-BFDE-48A2-8929-B20513DA2471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFD918B-5001-4389-9157-EAB35D36B758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFD918B-5001-4389-9157-EAB35D36B758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFD918B-5001-4389-9157-EAB35D36B758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFD918B-5001-4389-9157-EAB35D36B758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFAC0B0-5C04-47E6-A609-42377827DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFAC0B0-5C04-47E6-A609-42377827DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFAC0B0-5C04-47E6-A609-42377827DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFAC0B0-5C04-47E6-A609-42377827DDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58247A36-B1A0-4E24-851B-4B11CA26306C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\InFrastructure.deps.json
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\InFrastructure.runtimeconfig.json
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\InFrastructure.runtimeconfig.dev.json
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\InFrastructure.dll
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\InFrastructure.pdb
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\PC\Source\Repos\portifio\InFrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.csproj.CopyComplete
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.dll
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.pdb
+C:\Users\PC\Source\Repos\portifio\InFrastructure\obj\Debug\netcoreapp3.1\InFrastructure.genruntimeconfig.cache
